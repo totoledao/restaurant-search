@@ -86,13 +86,13 @@ Para criar uma cópia local funcionando siga esses simples passos.
    ```sh
    npm install
    ```
-3. Inicie o servidor de desenvolvimento
-   ```sh
-   npm start
-   ```
-4. Altere o nome do arquivo **.env.example** para **.env** e substitua *YOUR_API_KEY* pela sua chave API.
+3. Altere o nome do arquivo **.env.example** para **.env** e substitua *YOUR_API_KEY* pela sua chave API.
    ```sh
    REACT_APP_GOOGLE_API_KEY=YOUR_API_KEY
+   ```
+4. Inicie o servidor de desenvolvimento
+   ```sh
+   npm start
    ```
 
 #### API KEY
